@@ -1,0 +1,38 @@
+Albánia;Tirana;nem tag;0;145,2;ALL
+Ausztria;Bécs;1995;10;1;EUR
+Belarusz;Minszk;nem tag;0;2764,5;BYR
+Belgium;Brüsszel;1957;12;1;EUR
+Bosznia-Hercegovina;Szarajevo;nem tag;0;1,956;BAM
+Bulgária;Szófia;nem tag;0;1,95;BGN
+Ciprus;Nicosia;2004;4;0,59;CYP
+Csehország;Prága;2004;12;33,13;CZK
+Dánia;Koppenhága;1973;7;7,45;DKK
+Észtország;Tallin;2004;4;15,65;EEK
+Finnország;Helsinki;1995;7;1;EUR
+Franciaország;Párizs;1957;29;1;EUR
+Görögország;Athén;1981;12;1;EUR
+Hollandia;Hága;1957;13;1;EUR
+Horvátország;Zágráb;nem tag;0;7,67;HRK
+Írország;Dublin;1973;7;1;EUR
+Izland;Reykjavik;nem tag;0;86,84;ISK
+Lengyelország;Varsó;2004;27;4,84;PLN
+Lettország;Riga;2004;4;0,67;LVL
+Litvánia;Vilnius;2004;7;3,45;LTL
+Luxemburg;Luxembourg;1957;4;1;EUR
+Macedónia;Skopje;nem tag;0;62,2;MKD
+Magyarország;Budapest;2004;12;263;HUF
+Málta;Valletta;2004;3;0,43;MTL
+Moldova;Kisinyov;nem tag;0;16,18;MDL
+Nagy-Britannia;London;1973;29;0,68;GBF
+Németország;Berlin;1957;29;1;EUR
+Norvégia;Oslo;nem tag;0;8,82;NOK
+Olaszország;Róma;1957;29;1;EUR
+Portugália;Lisszabon;1986;29;1;EUR
+Románia;Bukarest;nem tag;0;40763;ROL
+Spanyolország;Madrid;1986;27;1;EUR
+Svájc;Bern;nem tag;0;1,58;CHF
+Svédország;Stockholm;1995;10;9,15;SEK
+Szerbia és Montenegro;Belgrád;nem tag;0;78,83;YUM
+Szlovákia;Pozsony;2004;7;40,52;SKK
+Szlovénia;Ljubjana;2004;4;237,1;SIT
+Ukrajna;Kijev;nem tag;0;6,84;UAH
